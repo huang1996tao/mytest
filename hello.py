@@ -1,2 +1,3 @@
-just is a test
-add comment
+just is a test.
+add comment.
+add author.
