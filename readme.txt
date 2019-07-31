@@ -5,3 +5,5 @@ Git tracks changes of files.
 坚强坚强坚强坚强坚强坚强坚强坚强坚强坚强坚强坚强坚强
 Creating a new branch is quick and simple.
 add merge.
+坚强坚强坚强坚强坚强坚强坚强坚强坚强坚强坚强坚强坚强
+add merge.
