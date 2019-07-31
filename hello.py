@@ -1,1 +1,2 @@
-init hello
+init hello.
+add comment.
